@@ -249,7 +249,7 @@ class _PortfolioPageState extends State<PortfolioPage>
                                             ),
                                       ),
                                     ),
-                                    Tab(
+                                    Tab( 
                                       child: Text(
                                         "Cash",
                                         style: Theme.of(context)
